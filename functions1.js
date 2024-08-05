@@ -104,7 +104,7 @@ printHelloo("Saleh", "tr");
 
 
 /**
- * Task 4:
+ * Task 5:
  * Create a function named `printMax`
  * - that takes 2 parameters as numbers
  * - should print out the bigger number
